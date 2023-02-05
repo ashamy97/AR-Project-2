@@ -1,2 +1,2 @@
 # AR-Project-2
-Food AR app
+Food AR app and lighting concepts
